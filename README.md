@@ -8,6 +8,7 @@
   <h4>Nitro Generator And Checker And Send You Working Nitro To Your Webhook If He Find One</h4>
 
   <img src="https://cdn.discordapp.com/attachments/969520965438550046/969918314535088148/unknown.png">
+  <h3>Dont Forget to leave a :star: Star :star:<h3>
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </div>
 
