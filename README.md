@@ -26,20 +26,13 @@
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 #### Setup
-### ------------------------------------------First Way---------------------------------------------
 1. Open your cli of choice
 2. Clone the repository with `git clone https://github.com/TWIST-X7/Nitro-Generator`
 3. Enter the dirctory with `cd Nitro-Generator`
 4. Type `start launcher.bat`
 5. Follow the instructions
 6. Enjoy
-### ------------------------------------------Second Way---------------------------------------------
-1. Download The exe in Release By Clicking This : [Download](https://github.com/TWIST-X7/Aio-Bypasser/releases/download/bypasser/aio-bypasser.exe)
-2. Run the exe
-3. Enjoy
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-
-
 
 #### Credits
 - [addidix.#0506](https://github.com/addi00000) (For Making the README)
