@@ -1,11 +1,11 @@
+import os
+import ctypes
 import random
 import requests
-import ctypes
-import os
-from discord_webhook import DiscordWebhook, DiscordEmbed
 
 from time import sleep
 from colorama import Fore
+from discord_webhook import DiscordWebhook, DiscordEmbed
 
 def fire(text):
     os.system(""); fade = ""
